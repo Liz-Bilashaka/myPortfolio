@@ -18,6 +18,6 @@ This website was created using visual studio which us an integrated development 
 to see which of my un-tracked files had not been added to the new repository. I used 'git commit -m "added in a specific message" to commit my changed files to the repository. Once my files were committed I used 'git push' to push all my new and changed files to GitHub before making it live with Git pages. I did this every time I made major changes to any part of my site.  
 
 # Acknowledgements
-Social media icons and menu icon on the page were sorced from https://css.gg/ 
-Icon under future projects was sourced from https://iconscout.com/
+- Social media icons and menu icon on the page were sorced from https://css.gg/ li
+- Icon under future projects was sourced from https://iconscout.com/
 
