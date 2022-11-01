@@ -16,7 +16,7 @@ body {
 
 .site-header{
   z-index: 10;
-  height: 50px;
+  height: 72px;
   font-family: 'Roboto Condesed', sans-serif;
   display: -webkit-box;
   display: -ms-flexbox;
